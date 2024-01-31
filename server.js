@@ -14,22 +14,3 @@ http
 
 
 // http://localhost:8081
-// npm- node package manager
-
-// http://localhost:8081
-// netstat -ano  - active connection 
-// npm run yourscriptname
-
-// TO upload from the codespace for push the file.
-// ^c
-// git status
-// git init
-// npm init
-// git add .
-// git status
-// git commit -m "demoserv"
-// git push
-// git push  --set upstream origin serv
-// git checkout -b "todos "
-
-// Router
