@@ -10,5 +10,3 @@ This server is designed as lightweight web server . It serves as a perfect for h
 ## >> npm run dev
 
 ## >> npm >> node package manager
-
-## Routers
